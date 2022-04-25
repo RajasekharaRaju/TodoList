@@ -1,0 +1,14 @@
+h5{
+    margin: 15px;
+  }
+  
+  input[type="submit"]{
+    background-color: greenyellow;
+    padding: 0px 20px 0px 20px;
+  }
+  
+  button{
+    background-color: red;
+    border-radius: 3px;
+    color: aliceblue;
+  }
